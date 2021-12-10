@@ -6,4 +6,4 @@ This keylogger is a basic python based keylogger whuch sends your captures your 
 
 With some extra lines of code you can advanced this logger to a next level , it can also send the keystrokes at regular intervals. But that is a project for another time.
 
-You can run this simply by syntax : python keylogger.py
+You can run this simply by syntax : python keylog.py
